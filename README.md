@@ -8,7 +8,7 @@ Note: There was an update to this RFI since it was released. The only change is 
 
 ## Responses to RFI questions
 
-Updated January 17th, 2025
+_Updated January 17th, 2025_
 
 ### Section A – Questions received by the Court in RFI submissions with the Court’s answers
 
@@ -33,12 +33,14 @@ Response: Correction to Appendix A (3rd Paragraph). Replace "Iron Bow Technologi
 
 ### Section B – Schedule of Events
 
+_Updated February 6th, 2025_
+
 The following is a tentative schedule that will apply to this RFQ but may change in accordance with the Court’s needs or due to unforeseen circumstances.
 
 | Event | Date |
 | --- | --- |
-| Issuance of RFQ on the Court’s GitHub | February 3, 2025 |
-| Industry Day at the Court’s Washington DC HQ | February 19, 2025 |
-| Cutoff for questions/inquiries | February 21, 2025 |
-| RFQ Closes | March 3, 2025 |
+| Issuance of RFQ on the Court’s GitHub | February 6, 2025 |
+| Industry Day at the Court’s Washington DC HQ | February 26, 2025 |
+| Cutoff for questions/inquiries | February 27, 2025 |
+| RFQ Closes | March 5, 2025 |
 | Final Award Notification | March 14, 2025 |
